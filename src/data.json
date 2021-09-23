@@ -1,0 +1,268 @@
+{
+  "KKR": [
+    {
+      "id": 1,
+      "name": "Dinesh Karthik (c)",
+      "nationality": "Indian",
+      "matches": 8,
+      "runs": 123,
+      "wickets": 0,
+      "skills": "Wicketkeeper batsman",
+      "image": "https://static.iplt20.com/players/284/102.png"
+    },
+    {
+      "id": 2,
+      "name": "Shivam Mavi",
+      "nationality": "Indian",
+      "matches": 3,
+      "runs": 5,
+      "wickets": 2,
+      "skills": "All Rounder",
+      "image": "https://static.iplt20.com/players/284/3779.png"
+    },
+    {
+      "id": 3,
+      "name": "Sandeep Warrier",
+      "nationality": "Indian",
+      "matches": 0,
+      "runs": 0,
+      "wickets": 0,
+      "skills": "Bowler",
+      "image": "https://static.iplt20.com/players/284/1092.png"
+    },
+    {
+      "id": 4,
+      "name": "Kuldeep Yadav",
+      "nationality": "Indian",
+      "matches": 0,
+      "runs": 0,
+      "wickets": 0,
+      "skills": "Bowler",
+      "image": "https://static.iplt20.com/players/284/261.png"
+    },
+    {
+      "id": 5,
+      "name": "Eoin Morgan",
+      "nationality": "English",
+      "matches": 8,
+      "runs": 92,
+      "wickets": 0,
+      "skills": "Batsman",
+      "image": "https://static.iplt20.com/players/284/197.png"
+    },
+    {
+      "id": 6,
+      "name": "Pat Cummins",
+      "nationality": "Australian",
+      "matches": 7,
+      "runs": 93,
+      "wickets": 9,
+      "skills": "Bowler",
+      "image": "https://static.iplt20.com/players/284/488.png"
+    },
+    {
+      "id": 7,
+      "name": "Sunil Narine",
+      "nationality": "West Indian",
+      "matches": 5,
+      "runs": 10,
+      "wickets": 3,
+      "skills": "Bowler",
+      "image": "https://static.iplt20.com/players/284/203.png"
+    },
+
+    {
+      "id": 8,
+      "name": "Andre Russell",
+      "nationality": "West Indian",
+      "matches": 8,
+      "runs": 163,
+      "wickets": 10,
+      "skills": "All Rounder",
+      "image": "https://static.iplt20.com/players/284/177.png"
+    },
+    {
+      "id": 9,
+      "name": "Lockie Ferguson",
+      "nationality": "New Zealander",
+      "matches": 1,
+      "runs": 0,
+      "wickets": 2,
+      "skills": "Bowler",
+      "image": "https://static.iplt20.com/players/284/3729.png"
+    },
+    {
+      "id": 10,
+      "name": "Prasidh Krishna",
+      "nationality": "Indian",
+      "matches": 8,
+      "runs": 0,
+      "wickets": 9,
+      "skills": "Bowler",
+      "image": "https://static.iplt20.com/players/284/5105.png"
+    },
+    {
+      "id": 11,
+      "name": "Shubman Gill",
+      "nationality": "Indian",
+      "matches": 8,
+      "runs": 180,
+      "wickets": 0,
+      "skills": "Batsman",
+      "image": "https://static.iplt20.com/players/284/3761.png"
+    },
+    {
+      "id": 12,
+      "name": "Nitish Rana",
+      "nationality": "Indian",
+      "matches": 8,
+      "runs": 201,
+      "wickets": 0,
+      "skills": "Batsman",
+      "image": "https://static.iplt20.com/players/284/2738.png"
+    },
+
+    {
+      "id": 13,
+      "name": "Kamlesh Nagarkoti",
+      "nationality": "Indian",
+      "matches": 1,
+      "runs": 0,
+      "wickets": 0,
+      "skills": "Bowler",
+      "image": "https://static.iplt20.com/players/284/3766.png"
+    },
+
+    {
+      "id": 14,
+      "name": "Varun Chakravarthy",
+      "nationality": "Indian",
+      "matches": 8,
+      "runs": 2,
+      "wickets": 10,
+      "skills": "Bowler",
+      "image": "https://static.iplt20.com/players/284/5432.png"
+    },
+
+    {
+      "id": 15,
+      "name": "Rahul Tripathi",
+      "nationality": "Indian",
+      "matches": 8,
+      "runs": 187,
+      "wickets": 0,
+      "skills": "Batsman",
+      "image": "https://static.iplt20.com/players/284/3838.png"
+    },
+    {
+      "id": 16,
+      "name": "Shakib Al Hasan",
+      "nationality": "Indian",
+      "matches": 3,
+      "runs": 38,
+      "wickets": 2,
+      "skills": "All Rounder",
+      "image": "https://static.iplt20.com/players/210/201.png"
+    },
+    {
+      "id": 17,
+      "name": "Vaibhav Arora",
+      "nationality": "Indian",
+      "matches": 0,
+      "runs": 0,
+      "wickets": 0,
+      "skills": "Bowler",
+      "image": "https://static.iplt20.com/players/210/14859.png"
+    },
+    {
+      "id": 18,
+      "name": "Lockie Ferguson",
+      "nationality": "Indian",
+      "matches": 1,
+      "runs": 0,
+      "wickets": 2,
+      "skills": "Bowler",
+      "image": "https://static.iplt20.com/players/210/3729.png"
+    },
+    {
+      "id": 19,
+      "name": "Ben Cutting",
+      "nationality": "Australian",
+      "matches": 0,
+      "runs": 0,
+      "wickets": 0,
+      "skills": "Bowler",
+      "image": "https://static.iplt20.com/players/210/913.png"
+    },
+    {
+      "id": 20,
+      "name": "Tim Seifert",
+      "nationality": "New Zealander",
+      "matches": 0,
+      "runs": 0,
+      "wickets": 0,
+      "skills": "Wicket-keeper Batsman",
+      "image": "https://static.iplt20.com/players/210/1619.png"
+    },
+    {
+      "id": 21,
+      "name": "Karun Nair",
+      "nationality": "Indian",
+      "matches": 0,
+      "runs": 0,
+      "wickets": 0,
+      "skills": "All Rounder Batsman",
+      "image": "https://static.iplt20.com/players/210/276.png"
+    },
+    {
+      "id": 22,
+      "name": "Sheldon Jackson",
+      "nationality": "Indian",
+      "matches": 0,
+      "runs": 0,
+      "wickets": 0,
+      "skills": "Wicket-keeper Batsman",
+      "image": "https://static.iplt20.com/players/210/1116.png"
+    },
+    {
+      "id": 23,
+      "name": "Venkatesh Iyer",
+      "nationality": "Indian",
+      "matches": 1,
+      "runs": 41,
+      "wickets": 0,
+      "skills": "All Rounder",
+      "image": "https://static.iplt20.com/players/210/8540.png"
+    },
+    {
+      "id": 24,
+      "name": "Harbhajan Singh",
+      "nationality": "Indian",
+      "matches": 3,
+      "runs": 4,
+      "wickets": 0,
+      "skills": "Bowler All Rounder",
+      "image": "https://static.iplt20.com/players/210/103.png"
+    },
+    {
+      "id": 25,
+      "name": "Pawan Negi",
+      "nationality": "Indian",
+      "matches": 0,
+      "runs": 0,
+      "wickets": 0,
+      "skills": "Bowler All Rounder",
+      "image": "https://static.iplt20.com/players/210/53.png"
+    },
+    {
+      "id": 26,
+      "name": "Mann Singh",
+      "nationality": "Indian",
+      "matches": 0,
+      "runs": 0,
+      "wickets": 0,
+      "skills": "Batsman",
+      "image": "https://static.iplt20.com/players/210/253.png"
+    }
+  ]
+}
